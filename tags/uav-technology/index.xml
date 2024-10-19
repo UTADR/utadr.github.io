@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UAV Technology on University of Toronto Autonomous Drone Racing Team</title>
+    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/tags/uav-technology/</link>
+    <description>Recent content in UAV Technology on University of Toronto Autonomous Drone Racing Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/tags/uav-technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulation Development</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</guid>
+      <description>&lt;p&gt;In July we began modifying a simulator - FlightGoggles developed by MIT. The simulator utilized the Unity engine with ray tracing, which enabled rendering of photorealistic images that can be used for perception algorithm development. Our modification allowed us to add custom gates to the scene, as well as a thirst-person view mode that can visualize light trail of the drone flying through a trajectory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autonomous Drone Racing Meets LEDs</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.1/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.1/</guid>
+      <description>&lt;p&gt;We mount four pairs of LEDs on the drone’s arms to enhance visibility during flight, and showcase a fascinating time-optimal flight trajectory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UTIAS 75th Anniversary Demo</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.6/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.6/</guid>
+      <description>&lt;p&gt;On May 10, 2024, we performed five rounds of presentation followed by demonstration flights to alumni of the institute. The demos showcased the current development status of racing drones and the alumni are greatly intrigued by the progress and the system’s potential.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADR Wins Best Paper Award on UAVs at ICRA</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.8/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.8/</guid>
+      <description>&lt;p&gt;Our paper “Time-Optimal Gate-Traversing Planner for Autonomous Drone Racing” won the prestigious Best Paper Award in ICRA 2024, held in Yokohama, Japan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Acquisition of Livox Mid360 LIDAR</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</guid>
+      <description>&lt;p&gt;We acquired the Livox Mid360 LIDAR sensor, which will help improve our SLAM and obstacle avoidance for the drone!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

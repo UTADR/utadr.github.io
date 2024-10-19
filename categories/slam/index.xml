@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLAM on University of Toronto Autonomous Drone Racing Team</title>
+    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/slam/</link>
+    <description>Recent content in SLAM on University of Toronto Autonomous Drone Racing Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/categories/slam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulation Development</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</guid>
+      <description>&lt;p&gt;In July we began modifying a simulator - FlightGoggles developed by MIT. The simulator utilized the Unity engine with ray tracing, which enabled rendering of photorealistic images that can be used for perception algorithm development. Our modification allowed us to add custom gates to the scene, as well as a thirst-person view mode that can visualize light trail of the drone flying through a trajectory.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

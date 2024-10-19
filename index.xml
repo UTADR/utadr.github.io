@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Toronto Autonomous Drone Racing Team</title>
+    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/</link>
+    <description>Recent content on University of Toronto Autonomous Drone Racing Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulation Development</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</guid>
+      <description>&lt;p&gt;In July we began modifying a simulator - FlightGoggles developed by MIT. The simulator utilized the Unity engine with ray tracing, which enabled rendering of photorealistic images that can be used for perception algorithm development. Our modification allowed us to add custom gates to the scene, as well as a thirst-person view mode that can visualize light trail of the drone flying through a trajectory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autonomous Drone Racing in the UTIAS MarsDome</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.2/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.2/</guid>
+      <description>&lt;p&gt;The ADR team is thrilled to announce our latest milestone: the successful autonomous drone racing within the UTIAS MarsDome. As we gear up for the world&amp;rsquo;s largest autonomous drone racing competition in April 2025 in Abu Dhabi, the MarsDome will serve as our primary training ground. Here, we will refine our strategies, test new innovations, and continue to push the limits of what&amp;rsquo;s possible in autonomous drone racing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autonomous Drone Racing Meets LEDs</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.1/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.1/</guid>
+      <description>&lt;p&gt;We mount four pairs of LEDs on the drone’s arms to enhance visibility during flight, and showcase a fascinating time-optimal flight trajectory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UTIAS 75th Anniversary Demo</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.6/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.6/</guid>
+      <description>&lt;p&gt;On May 10, 2024, we performed five rounds of presentation followed by demonstration flights to alumni of the institute. The demos showcased the current development status of racing drones and the alumni are greatly intrigued by the progress and the system’s potential.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADR Wins Best Paper Award on UAVs at ICRA</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.8/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.8/</guid>
+      <description>&lt;p&gt;Our paper “Time-Optimal Gate-Traversing Planner for Autonomous Drone Racing” won the prestigious Best Paper Award in ICRA 2024, held in Yokohama, Japan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Racing With ADR Gates</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.7/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.7/</guid>
+      <description>&lt;p&gt;We gathered gate image datasets during time-optimal flights, capturing a wide range of angles and lighting conditions. This dataset will be used to train a neural network for precise gate detection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Racing Dome Construction Started</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.3/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.3/</guid>
+      <description>&lt;p&gt;We have started the construction for our new drone racing arena in the UTIAS dome, providing a spacious space for drone racing research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Autonomous FPV Drone</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.5/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.5/</guid>
+      <description>&lt;p&gt;We built a new drone distinguished by its red features. This platform is equipped with a Jetson TX2 NX computer, a Betaflight flight control unit (FCU), and a set of infrared-reflective markers for motion capture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flight in a Real Race Course</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.9/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.9/</guid>
+      <description>&lt;p&gt;We are testing the performance of our time-optimal planning algorithms on a real race track. The goal is to navigate an autonomous FPV drone through 19 gates, made of foam pillars, in the shortest possible time without any collisions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meeting with Prof. Liu</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.10/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.10/</guid>
+      <description>&lt;p&gt;We meet with Prof. Liu in the Myhal Centre and introduce our recent progresses in learning-based gate detection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Old Pal</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.11/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.11/</guid>
+      <description>&lt;p&gt;Take a look at our old friend: a mature drone platform with state-of-the-art RGB-D camera for perception and localization, Vicon markers for ground-truth collection, and robust brushless motors for maneuverability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Acquisition of Livox Mid360 LIDAR</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</guid>
+      <description>&lt;p&gt;We acquired the Livox Mid360 LIDAR sensor, which will help improve our SLAM and obstacle avoidance for the drone!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADR Racing Gates</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.13/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.13/</guid>
+      <description>&lt;p&gt;We built the custom ordered ADR racing gates for future drone tests! In addition, we collected images of the gates for training our gate detection algorithm.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assemply of ADR Drones</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.14/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.14/</guid>
+      <description>&lt;p&gt;We developed a new FPV drone and conducted a manual flight test at the UTIAS soccer field to assess its performance. During the test, we evaluated the drone&amp;rsquo;s handling, responsiveness, and stability in a real-world environment, gathering critical data for further refinement of its design and control algorithms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paper Submission to ICRA2024</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.15/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.15/</guid>
+      <description>&lt;p&gt;We submit a paper about our new algorithm on time-optimal trajectory planning for autonomous drone racing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our First Racing Drone</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.16/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.16/</guid>
+      <description>&lt;p&gt;The adventure of ADR begins here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADR Admin</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/author/john-doe/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADR Admin</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/author/mark-dinn/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

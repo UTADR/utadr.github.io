@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on University of Toronto Autonomous Drone Racing Team</title>
+    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/hardware/</link>
+    <description>Recent content in Hardware on University of Toronto Autonomous Drone Racing Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 -0500</lastBuildDate>
+    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Acquisition of Livox Mid360 LIDAR</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</guid>
+      <description>&lt;p&gt;We acquired the Livox Mid360 LIDAR sensor, which will help improve our SLAM and obstacle avoidance for the drone!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

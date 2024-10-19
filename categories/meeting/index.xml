@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meeting on University of Toronto Autonomous Drone Racing Team</title>
+    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/meeting/</link>
+    <description>Recent content in Meeting on University of Toronto Autonomous Drone Racing Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 -0500</lastBuildDate>
+    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/categories/meeting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting with Prof. Liu</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.10/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.10/</guid>
+      <description>&lt;p&gt;We meet with Prof. Liu in the Myhal Centre and introduce our recent progresses in learning-based gate detection.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

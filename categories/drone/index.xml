@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drone on University of Toronto Autonomous Drone Racing Team</title>
+    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/drone/</link>
+    <description>Recent content in Drone on University of Toronto Autonomous Drone Racing Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 -0400</lastBuildDate>
+    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/categories/drone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Autonomous FPV Drone</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.5/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 -0400</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.5/</guid>
+      <description>&lt;p&gt;We built a new drone distinguished by its red features. This platform is equipped with a Jetson TX2 NX computer, a Betaflight flight control unit (FCU), and a set of infrared-reflective markers for motion capture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Old Pal</title>
+      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.11/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.11/</guid>
+      <description>&lt;p&gt;Take a look at our old friend: a mature drone platform with state-of-the-art RGB-D camera for perception and localization, Vicon markers for ground-truth collection, and robust brushless motors for maneuverability.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
