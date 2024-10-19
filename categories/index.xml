@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on University of Toronto Autonomous Drone Racing Team</title>
-    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/</link>
+    <link>https://adr.utias.utoronto.ca/categories/</link>
     <description>Recent content in Categories on University of Toronto Autonomous Drone Racing Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adr.utias.utoronto.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SLAM</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/slam/</link>
+      <link>https://adr.utias.utoronto.ca/categories/slam/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/slam/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/slam/</guid>
       <description></description>
     </item>
     <item>
       <title>Experiment</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/experiment/</link>
+      <link>https://adr.utias.utoronto.ca/categories/experiment/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/experiment/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/experiment/</guid>
       <description></description>
     </item>
     <item>
       <title>Presentation</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/presentation/</link>
+      <link>https://adr.utias.utoronto.ca/categories/presentation/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/presentation/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/presentation/</guid>
       <description></description>
     </item>
     <item>
       <title>ICRA 2024</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/icra-2024/</link>
+      <link>https://adr.utias.utoronto.ca/categories/icra-2024/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/icra-2024/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/icra-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Drone Racing</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/drone-racing/</link>
+      <link>https://adr.utias.utoronto.ca/categories/drone-racing/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/drone-racing/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/drone-racing/</guid>
       <description></description>
     </item>
     <item>
       <title>Drone</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/drone/</link>
+      <link>https://adr.utias.utoronto.ca/categories/drone/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/drone/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/drone/</guid>
       <description></description>
     </item>
     <item>
       <title>Meeting</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/meeting/</link>
+      <link>https://adr.utias.utoronto.ca/categories/meeting/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 -0500</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/meeting/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/meeting/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/hardware/</link>
+      <link>https://adr.utias.utoronto.ca/categories/hardware/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/hardware/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>Assembly</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/assembly/</link>
+      <link>https://adr.utias.utoronto.ca/categories/assembly/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 -0500</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/assembly/</guid>
+      <guid>https://adr.utias.utoronto.ca/categories/assembly/</guid>
       <description></description>
     </item>
   </channel>

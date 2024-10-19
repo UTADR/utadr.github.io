@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Analysis on University of Toronto Autonomous Drone Racing Team</title>
-    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/tags/data-analysis/</link>
+    <link>https://adr.utias.utoronto.ca/tags/data-analysis/</link>
     <description>Recent content in Data Analysis on University of Toronto Autonomous Drone Racing Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 May 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adr.utias.utoronto.ca/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drone Racing With ADR Gates</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.7/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.7/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.7/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.7/</guid>
       <description>&lt;p&gt;We gathered gate image datasets during time-optimal flights, capturing a wide range of angles and lighting conditions. This dataset will be used to train a neural network for precise gate detection.&lt;/p&gt;</description>
     </item>
   </channel>

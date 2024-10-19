@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics on University of Toronto Autonomous Drone Racing Team</title>
-    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/tags/robotics/</link>
+    <link>https://adr.utias.utoronto.ca/tags/robotics/</link>
     <description>Recent content in Robotics on University of Toronto Autonomous Drone Racing Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 May 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adr.utias.utoronto.ca/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Autonomous FPV Drone</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.5/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.5/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.5/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.5/</guid>
       <description>&lt;p&gt;We built a new drone distinguished by its red features. This platform is equipped with a Jetson TX2 NX computer, a Betaflight flight control unit (FCU), and a set of infrared-reflective markers for motion capture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paper Submission to ICRA2024</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.15/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.15/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.15/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.15/</guid>
       <description>&lt;p&gt;We submit a paper about our new algorithm on time-optimal trajectory planning for autonomous drone racing.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICRA 2024 on University of Toronto Autonomous Drone Racing Team</title>
-    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/categories/icra-2024/</link>
+    <link>https://adr.utias.utoronto.ca/categories/icra-2024/</link>
     <description>Recent content in ICRA 2024 on University of Toronto Autonomous Drone Racing Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 May 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/categories/icra-2024/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adr.utias.utoronto.ca/categories/icra-2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADR Wins Best Paper Award on UAVs at ICRA</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.8/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.8/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.8/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.8/</guid>
       <description>&lt;p&gt;Our paper “Time-Optimal Gate-Traversing Planner for Autonomous Drone Racing” won the prestigious Best Paper Award in ICRA 2024, held in Yokohama, Japan.&lt;/p&gt;</description>
     </item>
   </channel>

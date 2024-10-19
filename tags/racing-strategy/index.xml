@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racing Strategy on University of Toronto Autonomous Drone Racing Team</title>
-    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/tags/racing-strategy/</link>
+    <link>https://adr.utias.utoronto.ca/tags/racing-strategy/</link>
     <description>Recent content in Racing Strategy on University of Toronto Autonomous Drone Racing Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2023 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/tags/racing-strategy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adr.utias.utoronto.ca/tags/racing-strategy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADR Racing Gates</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.13/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.13/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 -0500</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.13/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.13/</guid>
       <description>&lt;p&gt;We built the custom ordered ADR racing gates for future drone tests! In addition, we collected images of the gates for training our gate detection algorithm.&lt;/p&gt;</description>
     </item>
   </channel>

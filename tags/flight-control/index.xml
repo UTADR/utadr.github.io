@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flight Control on University of Toronto Autonomous Drone Racing Team</title>
-    <link>https://liu-xiaoya.github.io/jessicaliu.github.io/tags/flight-control/</link>
+    <link>https://adr.utias.utoronto.ca/tags/flight-control/</link>
     <description>Recent content in Flight Control on University of Toronto Autonomous Drone Racing Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://liu-xiaoya.github.io/jessicaliu.github.io/tags/flight-control/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adr.utias.utoronto.ca/tags/flight-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simulation Development</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.4/</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.4/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.4/</guid>
       <description>&lt;p&gt;In July we began modifying a simulator - FlightGoggles developed by MIT. The simulator utilized the Unity engine with ray tracing, which enabled rendering of photorealistic images that can be used for perception algorithm development. Our modification allowed us to add custom gates to the scene, as well as a thirst-person view mode that can visualize light trail of the drone flying through a trajectory.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autonomous Drone Racing in the UTIAS MarsDome</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.2/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.2/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.2/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.2/</guid>
       <description>&lt;p&gt;The ADR team is thrilled to announce our latest milestone: the successful autonomous drone racing within the UTIAS MarsDome. As we gear up for the world&amp;rsquo;s largest autonomous drone racing competition in April 2025 in Abu Dhabi, the MarsDome will serve as our primary training ground. Here, we will refine our strategies, test new innovations, and continue to push the limits of what&amp;rsquo;s possible in autonomous drone racing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drone Racing With ADR Gates</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.7/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.7/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 -0400</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.7/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.7/</guid>
       <description>&lt;p&gt;We gathered gate image datasets during time-optimal flights, capturing a wide range of angles and lighting conditions. This dataset will be used to train a neural network for precise gate detection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Acquisition of Livox Mid360 LIDAR</title>
-      <link>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</link>
+      <link>https://adr.utias.utoronto.ca/blog/post.12/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-      <guid>https://liu-xiaoya.github.io/jessicaliu.github.io/blog/post.12/</guid>
+      <guid>https://adr.utias.utoronto.ca/blog/post.12/</guid>
       <description>&lt;p&gt;We acquired the Livox Mid360 LIDAR sensor, which will help improve our SLAM and obstacle avoidance for the drone!&lt;/p&gt;</description>
     </item>
   </channel>
