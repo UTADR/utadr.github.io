@@ -1079,3 +1079,9 @@
 .ti-rss-alt:before {
 	content: "\e75f";
 }
+
+a[href^="mailto:"] {
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
